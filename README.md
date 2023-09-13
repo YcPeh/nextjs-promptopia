@@ -1,3 +1,15 @@
+## My notes
+
+- Referring to the Youtube Tutorial
+  https://www.youtube.com/watch?v=wm5gMKuwSYk
+  https://github.com/adrianhajdin/project_next_13_ai_prompt_sharing
+- sign in with google cloud from email:
+  yongchingpeh@gmail.com
+- NextAuth
+  https://next-auth.js.org/getting-started/example
+
+## ///////////////////////////////////////////////////////////////////////////////////////////
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

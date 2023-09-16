@@ -28,7 +28,7 @@ const CreatePrompt = () => {
         }),
       });
       if (response.ok) {
-        console.log("response is ok");
+        // console.log("response is ok");
         router.push("/");
       }
     } catch (error) {

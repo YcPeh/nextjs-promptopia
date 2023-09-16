@@ -45,8 +45,8 @@ const Form = ({ type, post, setPost, submitting, handleSubmit }) => {
           <Link href="/" className="text-gray-500 text-sm">
             Cancel
           </Link>
-          {console.log("type", type)}
-          {console.log("submitting", submitting)}
+          {/* {console.log("type", type)} */}
+          {/* {console.log("submitting", submitting)} */}
           <button
             type="submit"
             disabled={submitting}
